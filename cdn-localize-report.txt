@@ -1,0 +1,13 @@
+FILE short-life: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/style.css -> ../_shared/5c9e431714ba-style.css
+FILE short-life: https://cdn.jsdelivr.net/gh/lee2sman/everyday@d45d601d2c4d60adf809a0b677c00b7d12aba7e9/96/TemplateData/UnityProgress.js -> ../_shared/1c97c58907f9-UnityProgress.js
+FILE short-life: https://cdn.jsdelivr.net/gh/gertdoro/IoC-framework@c576767b02bbd79a8386dbf1cb5281c424de9791/ProjectSettings/Short/short.js -> assets/cdn/c569749b-short.js
+FILE short-life: https://cdn.jsdelivr.net/gh/gertdoro/IoC-framework@c576767b02bbd79a8386dbf1cb5281c424de9791/ProjectSettings/Short/short.json -> assets/cdn/40241f63-short.json
+FILE snowball-io: https://cdn.jsdelivr.net/gh/lee2sman/everyday@d45d601d2c4d60adf809a0b677c00b7d12aba7e9/96/TemplateData/UnityProgress.js -> ../_shared/1c97c58907f9-UnityProgress.js
+FILE snowball-io: https://cdn.jsdelivr.net/gh/gertdoro/SQLite4Unity3d@eda39654f6ca782386c5d8c43677a36873fc1319/Example/Assets/js/sb.js -> assets/cdn/97d2fb36-sb.js
+FILE snowball-io: https://cdn.jsdelivr.net/gh/gertdoro/SQLite4Unity3d@eda39654f6ca782386c5d8c43677a36873fc1319/Example/Assets/js/sb.json -> assets/cdn/397f139c-sb.json
+FILE snowball-io: https://cdn.jsdelivr.net/gh/paigerodeghero/academicwebsite@897c910c65e6c68b04c44a6b6eba0b99d0f2f2cf/TemplateData/style.css -> ../_shared/5c9e431714ba-style.css
+BASE SKIP 128.9MB genizy/sprunki@HEAD/
+FAILED https://cdn.jsdelivr.net/gh/genizy/sprunki/assets/project.json: curl: (22) The requested URL returned error: 403
+
+BASE OK genizy/google-class@cd06df26d3c4d9f73c8151fc13f7b2dc27f3adda/stickman-hook -> stickman-hook
+BASE REWRITE stickman-hook
